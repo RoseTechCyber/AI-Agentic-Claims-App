@@ -1,0 +1,156 @@
+====================================================
+CLAIMS HANDLING PLAYBOOK
+Version 1.0
+====================================================
+
+PURPOSE
+
+This playbook provides guidance for assessing claims,
+detecting fraud indicators, determining claim priority,
+and recommending preferred suppliers.
+
+====================================================
+SECTION 1 - CLAIM PRIORITY RULES
+====================================================
+
+Priority Levels:
+
+HIGH
+- Estimated loss exceeds 10000
+- Customer is classified as VIP
+- Claim involves injury or medical emergency
+- Business interruption reported
+
+MEDIUM
+- Estimated loss between 5000 and 10000
+- Property damage affecting normal operations
+
+LOW
+- Estimated loss below 5000
+- Cosmetic damage only
+- No safety concerns
+
+====================================================
+SECTION 2 - FRAUD INDICATORS
+====================================================
+
+Potential Fraud Indicators:
+
+1. Multiple claims submitted within 12 months
+
+2. Claim value significantly exceeds normal average
+
+3. Missing supporting documents
+
+4. Contradictory claim information
+
+5. Recently activated policy
+
+6. Supplier requested by claimant differs from approved suppliers
+
+Fraud Risk Scoring:
+
+0-1 Indicators = Low Risk
+
+2-3 Indicators = Medium Risk
+
+4+ Indicators = High Risk
+
+====================================================
+SECTION 3 - CLAIM ACTIONS
+====================================================
+
+High Priority Claims
+
+Actions:
+- Assign adjuster immediately
+- Notify claims manager
+- Begin supplier selection process
+- Contact claimant within 4 hours
+
+Medium Priority Claims
+
+Actions:
+- Assign adjuster
+- Request documents if missing
+- Contact claimant within 1 business day
+
+Low Priority Claims
+
+Actions:
+- Queue for standard processing
+- Validate supporting documents
+
+====================================================
+SECTION 4 - SUPPLIER SELECTION RULES
+====================================================
+
+Property Claims
+
+Preferred Suppliers:
+- ABC Property Repairs
+- Rapid Restore Services
+- Elite Home Restoration
+
+Motor Claims
+
+Preferred Suppliers:
+- Premier Auto Assessors
+- Swift Vehicle Repairs
+
+Medical Claims
+
+Preferred Suppliers:
+- MediCare Claims Network
+- HealthFirst Providers
+
+Electronics Claims
+
+Preferred Suppliers:
+- Secure Tech Recovery
+
+====================================================
+SECTION 5 - SUPPLIER RANKING
+====================================================
+
+When multiple suppliers qualify:
+
+Rank suppliers using:
+
+1. Preferred Supplier Status
+2. Region Match
+3. Performance Rating
+4. SLA Response Time
+5. Cost Efficiency
+
+Highest ranked supplier should be recommended.
+
+====================================================
+SECTION 6 - ESCALATION RULES
+====================================================
+
+Escalate to Claims Manager when:
+
+- Fraud Risk is High
+- Estimated Loss exceeds 50000
+- Supplier cannot be identified
+- Legal action is indicated
+- Customer complaint received
+
+====================================================
+SECTION 7 - OUTPUT FORMAT
+====================================================
+
+The Claims Agent shall return:
+
+- Claim ID
+- Priority Level
+- Fraud Risk
+- Recommended Actions
+- Recommended Supplier
+- Escalation Requirement
+- Reasoning Summary
+
+====================================================
+END OF PLAYBOOK
+====================================================

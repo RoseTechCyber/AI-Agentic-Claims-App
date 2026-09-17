@@ -1,0 +1,8 @@
+Given these business rules and suppliers,
+recommend the most suitable supplier.
+
+Claim:
+{claim_data}
+
+Suppliers:
+{suppliers}

@@ -1,0 +1,4 @@
+ClaimType,Priority,FraudRisk,RecommendedAction
+Property,High,High,Assign SIU
+Motor,Medium,Low,Assign Adjuster
+Property,Low,Low,Fast Track

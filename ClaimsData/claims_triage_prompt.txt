@@ -1,0 +1,9 @@
+Review the following claim using the claims playbook.
+
+Determine:
+1. Priority
+2. Fraud indicators
+3. Recommended actions
+
+Claim:
+{claim_data}

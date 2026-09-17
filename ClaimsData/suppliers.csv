@@ -1,0 +1,11 @@
+SupplierID,SupplierName,Specialty,Region,PerformanceRating,SLA,PreferredSupplier,MaxClaimValue,CoverageAreas,FraudInvestigationCapable,EmergencyResponse,AverageCostScore,CustomerSatisfaction,Active
+SUP001,ABC Property Repairs,Property,Lagos,4.8,24h,True,,,,,,,
+SUP002,Rapid Restore Services,Property,Abuja,4.6,48h,True,,,,,,,
+SUP003,Premier Auto Assessors,Motor,Lagos,4.7,12h,True,,,,,,,
+SUP004,Swift Vehicle Repairs,Motor,Port Harcourt,4.4,24h,True,,,,,,,
+SUP005,Elite Home Restoration,Property,Ibadan,4.9,24h,False,,,,,,,
+SUP006,MediCare Claims Network,Medical,Lagos,4.5,8h,True,,,,,,,
+SUP007,HealthFirst Providers,Medical,Abuja,4.7,12h,True,,,,,,,
+SUP008,Secure Tech Recovery,Electronics,Lagos,4.3,48h,True,,,,,,,
+SUP009,National Loss Adjusters,General,Kano,4.8,24h,True,,,,,,,
+SUP010,Trusted Claims Partners,General,Enugu,4.6,24h,True,,,,,,,

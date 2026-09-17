@@ -1,0 +1,6 @@
+ClaimID,CustomerName,ClaimType,Region,EstimatedLoss,SubmissionDate,MultipleRecentClaims,Status
+CLM001,John Smith,Property,Lagos,15000.0,2026-09-01,True,Open
+CLM002,Mary Johnson,Motor,Abuja,3500.0,2026-09-03,False,Open
+CLM003,David Brown,Medical,Lagos,800.0,2026-09-05,False,Open
+CLM004,Sarah Wilson,Property,Ibadan,25000.0,2026-09-07,True,Review
+CLM005,James Davis,Motor,Port Harcourt,12000.0,2026-09-08,False,Open
